@@ -1,0 +1,9 @@
+# 購読・受信箱などの運用データ(サービスごとのフォルダ)は公開しない
+*/
+*.jsonl
+*.lock
+.pusyuuHiddenFiles/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
